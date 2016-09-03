@@ -11,7 +11,7 @@ Requirements
 [Vagrant 1.7+](http://www.vagrantup.com/downloads.html) or equivalent development environment.
 
 Deploying
----------
+requirements
 
 1. Clone repository
 2. Open shell and point to checkout directory
